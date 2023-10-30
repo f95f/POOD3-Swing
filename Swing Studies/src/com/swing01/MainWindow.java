@@ -17,7 +17,9 @@ public class MainWindow {
 		JFrameOne frame1 = new JFrameOne();
 		*/
 		//JFrameTwo frame2 = new JFrameTwo();
-		JFrameThree frame3 = new JFrameThree();
+		//JFrameThree frame3 = new JFrameThree();
+		//JFrameFour frame4 = new JFrameFour();
+		JFrameFive frame4 = new JFrameFive();
 		
 	}
 
