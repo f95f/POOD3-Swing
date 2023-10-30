@@ -17,7 +17,7 @@ public class JFrameFive {
 	public void initialize() {
 		frame = new JFrame();
 
-		this.frame.setTitle("Aula 4");
+		this.frame.setTitle("Aula 6");
 		this.frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		this.frame.setSize(600, 600);
 		this.frame.setResizable(false);
