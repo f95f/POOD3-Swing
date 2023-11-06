@@ -2,6 +2,7 @@ package com.swing01;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
+import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -12,15 +13,14 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-public class ActionListenerOne implements ActionListener {
-	
+public class NimbusOne implements ActionListener{
 	private JFrame frame;
 	private JPanel panel;
 	private JLabel label;
 	private JTextField textField;
 	private JButton button;
 	
-	public ActionListenerOne(){
+	public NimbusOne(){
 		initialize();
 	}
 	

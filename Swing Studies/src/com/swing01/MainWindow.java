@@ -22,7 +22,8 @@ public class MainWindow {
 		//JFrameFive frame4 = new JFrameFive();
 		//JButtonOne frameButton = new JButtonOne();
 		//JLabelOne frameLabel = new JLabelOne();
-		JTextFieldOne FrameTextField = new JTextFieldOne();
+		///JTextFieldOne FrameTextField = new JTextFieldOne();
+		NimbusOne nimbusOne = new NimbusOne();
 	}
 
 	public void show() {
