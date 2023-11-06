@@ -57,7 +57,7 @@ public class JButtonOne {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				
-				System.out.println(" > Printing...");
+				put(String.valueOf(e));
 				
 			}
 		});
@@ -70,5 +70,11 @@ public class JButtonOne {
 		//button.setPreferredSize(new Dimension(100, 100));
 		
 		return button;
+	}
+	
+	private void put(String text) {
+		
+		System.out.println(" > Printing: " + text + " <");
+		
 	}
 }

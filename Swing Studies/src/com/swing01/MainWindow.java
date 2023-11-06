@@ -20,7 +20,8 @@ public class MainWindow {
 		//JFrameThree frame3 = new JFrameThree();
 		//JFrameFour frame4 = new JFrameFour();
 		//JFrameFive frame4 = new JFrameFive();
-		JButtonOne frameButton = new JButtonOne();
+		//JButtonOne frameButton = new JButtonOne();
+		JLabelOne frameLabel = new JLabelOne();
 	}
 
 	public void show() {
