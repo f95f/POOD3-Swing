@@ -27,7 +27,7 @@ public class JLabelOne {
 		frame = new JFrame();
 		panel = new JPanel();
 		
-		this.frame.setTitle("Aula 7");
+		this.frame.setTitle("Aula 8");
 		this.frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		this.frame.setSize(600, 600);
 		this.frame.setResizable(false);

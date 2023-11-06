@@ -21,7 +21,8 @@ public class MainWindow {
 		//JFrameFour frame4 = new JFrameFour();
 		//JFrameFive frame4 = new JFrameFive();
 		//JButtonOne frameButton = new JButtonOne();
-		JLabelOne frameLabel = new JLabelOne();
+		//JLabelOne frameLabel = new JLabelOne();
+		JTextFieldOne FrameTextField = new JTextFieldOne();
 	}
 
 	public void show() {
