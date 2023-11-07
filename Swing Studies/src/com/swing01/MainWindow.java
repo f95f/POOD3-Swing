@@ -23,7 +23,9 @@ public class MainWindow {
 		//JButtonOne frameButton = new JButtonOne();
 		//JLabelOne frameLabel = new JLabelOne();
 		///JTextFieldOne FrameTextField = new JTextFieldOne();
-		NimbusOne nimbusOne = new NimbusOne();
+		//JPasswordOne passwordOne = new JPasswordOne();
+		//JMenuOne menuOne = new JMenuOne();
+		JCheckBoxOne checkBoxOne = new JCheckBoxOne();
 	}
 
 	public void show() {
